@@ -1,0 +1,169 @@
+<div class="itl-wrap">
+<style>
+.itl-wrap{font-size:17px;line-height:1.75;color:#1b2733}
+.itl-wrap h2{font-size:24px;margin:28px 0 10px;border-left:6px solid #d97400;padding-left:10px}
+.itl-wrap .itl-tw{overflow-x:auto;margin:10px 0}
+.itl-wrap table{border-collapse:collapse;width:100%;font-size:15.5px}
+.itl-wrap th,.itl-wrap td{border:1px solid #cfd7df;padding:7px 9px;text-align:left;vertical-align:top}
+.itl-wrap th{background:#e9edf1}
+.itl-wrap .itl-fig{background:#fff;border:1px solid #cfd7df;border-radius:8px;padding:8px;text-align:center;margin:12px 0}
+.itl-wrap .itl-fig small{display:block;color:#566575;margin-top:4px}
+.itl-wrap .itl-note{background:#fff7e8;border-left:5px solid #d97400;padding:10px 14px;border-radius:6px;margin:12px 0}
+.itl-wrap .itl-note.red{background:#fff0ef;border-left-color:#d0261f}
+.itl-wrap details{border:1px solid #cfd7df;border-radius:8px;padding:8px 12px;margin:8px 0;background:#fff}
+.itl-wrap summary{font-weight:700;cursor:pointer}
+.itl-wrap .itl-btn{display:inline-block;background:#d97400;color:#fff!important;font-weight:700;padding:9px 16px;border-radius:8px;text-decoration:none;margin:8px 0}
+</style>
+
+<p><b>ટર્બોચાર્જર</b> એટલે એક્ઝોસ્ટ ગેસથી ચાલતો હવાનો પંપ. જે ગરમ ધુમાડો સાયલેન્સરમાંથી નકામો નીકળી જાય છે, તેની તાકાત વાપરીને ટર્બો એન્જિનમાં વધારે હવા ઠાંસે છે, અને એ જ એન્જિનમાંથી 30 થી 40 ટકા વધારે પાવર મળે છે. આ પોસ્ટની <b>3D ટર્બોચાર્જર લેબ</b>માં તમે ટર્બોને ફોનમાં ચલાવી શકો, વચ્ચેથી કાપીને અંદર જોઈ શકો, એક એક પાર્ટ ખોલી શકો અને ખામી પણ શોધી શકો. લેબ ગુજરાતી, હિન્દી અને English ત્રણેય ભાષામાં છે.</p>
+
+<p><b>નીચે લેબ શરૂ કરો 👇</b> (એક્સિલરેટર સ્લાઇડર ખસેડો, પછી "કટ સેક્શન" દબાવો)</p>
+
+<iframe id="turboframe" src="https://ashish119055.github.io/turbo-lab/" style="width:100%;height:2000px;border:0;display:block" allow="fullscreen" allowfullscreen loading="lazy" title="ટર્બોચાર્જર 3D લેબ"></iframe>
+<script>(function(){var f=document.getElementById('turboframe');window.addEventListener('message',function(e){if(e.source===f.contentWindow&&e.data&&e.data.dmHeight){f.style.height=e.data.dmHeight+'px';}});})();</script>
+
+<p><a class="itl-btn" href="https://ashish119055.github.io/turbo-lab/" target="_blank" rel="noopener">લેબ પૂરી સ્ક્રીનમાં ખોલો ↗</a></p>
+
+<h2>આ લેબમાં શું છે?</h2>
+<ul>
+<li><b>3D લેબ:</b> એક્સિલરેટર આપો એટલે ટર્બો સ્પીડ, બૂસ્ટ પ્રેશર, એક્ઝોસ્ટ તાપમાન અને ઓઇલ પ્રેશર બદલાય. હવા, એક્ઝોસ્ટ ગેસ, ઓઇલ અને કૂલન્ટનો રસ્તો અલગ અલગ રંગમાં દેખાય.</li>
+<li><b>કટ સેક્શન:</b> ટર્બો વચ્ચેથી કપાય અને અંદરના વ્હીલ, શાફ્ટ, બેરિંગ દેખાય.</li>
+<li><b>પાર્ટ્સ અને મટીરિયલ:</b> 19 પાર્ટનું કામ અને તે કઈ ધાતુનો બને છે.</li>
+<li><b>ખોલવાની રીત:</b> 12 સ્ટેપમાં સાચો ક્રમ, સાધન અને સાવચેતી.</li>
+<li><b>લ્યુબ્રિકેશન અને કૂલિંગ:</b> આખી સિસ્ટમનો ચાલતો ડાયાગ્રામ.</li>
+<li><b>ફેલ્યોર લેબ:</b> 10 ખામી, ડાયલ ગેજથી શાફ્ટ પ્લે માપવાનું અને "છૂપી ખામી શોધો" ચેલેન્જ.</li>
+<li><b>થિયરી અને MCQ:</b> પૂરી થિયરી અને 32 પ્રશ્નો.</li>
+</ul>
+
+<h2>વર્કશોપની વાત</h2>
+<div class="itl-note">વર્કશોપમાં ટર્બો બદલ્યા પછી નવો ટર્બો પણ થોડા દિવસમાં ફેલ થાય, એવું ઘણી વાર બને છે. કારણ મોટે ભાગે ટર્બો નથી હોતો. જૂનો ટર્બો જે કારણે બગડ્યો (ગંદું ઓઇલ, બ્લોક થયેલી ઓઇલ ફીડ પાઇપ, ફાટેલું એર ફિલ્ટર) તે કારણ શોધ્યા વગર નવો ટર્બો નાખીએ તો તે પણ એ જ રીતે બગડે. એટલે નિયમ સાદો છે: પહેલાં કારણ શોધો, પછી ટર્બો બદલો.</div>
+
+<h2>ટર્બોચાર્જર એટલે શું? કેમ જોઈએ?</h2>
+<p>એન્જિનને પાવર બનાવવા હવા અને ડીઝલ બંને જોઈએ. સાદા એન્જિનમાં હવા પિસ્ટનના ખેંચાણથી જાતે અંદર આવે છે. આવા એન્જિનને <b>નેચરલી એસ્પિરેટેડ (NA)</b> એન્જિન કહેવાય. તેમાં સિલિન્ડર પૂરો ભરાતો નથી, એટલે ડીઝલ પણ મર્યાદિત જ બળી શકે.</p>
+<p>ટર્બોચાર્જર હવાને દબાવીને સિલિન્ડરમાં મોકલે છે. આને <b>ફોર્સ્ડ ઇન્ડક્શન</b> કહેવાય. વધારે હવા મળે એટલે વધારે ડીઝલ પૂરું બળે, પાવર વધે અને કાળો ધુમાડો ઘટે. ડીઝલની લગભગ 30 થી 35 ટકા ઊર્જા એક્ઝોસ્ટમાં નકામી જાય છે; ટર્બો એમાંથી થોડી પાછી કામમાં લે છે. સહેલું ઉદાહરણ: ચૂલામાં ફૂંક મારીએ તો આગ વધારે સળગે, ટર્બો એન્જિનને એવી જ ફૂંક મારે છે.</p>
+
+<h2>ટર્બોચાર્જરના મુખ્ય ભાગ</h2>
+<div class="itl-fig">
+<svg style="max-width:100%;height:auto;background:#fff" viewBox="0 0 540 320" xmlns="http://www.w3.org/2000/svg" font-family="sans-serif" role="img">  <rect width="540" height="320" fill="#fff"/>  <!-- compressor housing -->  <path d="M60 112 L150 118 L186 70 L186 58 A26 26 0 1 1 204 82 L204 96 M60 208 L150 202 L186 250 L186 256 A32 32 0 1 0 204 236 L204 224" fill="none" stroke="#1f8fe0" stroke-width="7" stroke-linejoin="round"/>  <circle cx="200" cy="50" r="17" fill="#dceefb"/><circle cx="200" cy="268" r="23" fill="#dceefb"/>  <!-- turbine housing -->  <path d="M480 118 L390 122 L354 76 L354 64 A32 32 0 1 0 336 86 L336 98 M480 202 L390 198 L354 244 L354 254 A26 26 0 1 1 336 232 L336 222" fill="none" stroke="#e2452a" stroke-width="7" stroke-linejoin="round"/>  <circle cx="340" cy="52" r="23" fill="#fde2dc"/><circle cx="340" cy="270" r="17" fill="#fde2dc"/>  <!-- centre housing -->  <path d="M208 100 H332 V220 H208 Z" fill="#c9ced4" stroke="#566575" stroke-width="2"/>  <rect x="216" y="140" width="108" height="40" fill="#fff" stroke="#566575"/>  <rect x="258" y="78" width="24" height="24" fill="#f6d36b" stroke="#a87400" stroke-width="2"/>  <rect x="254" y="218" width="32" height="26" fill="#e3b24a" stroke="#a87400" stroke-width="2"/>  <path d="M270 102 V140 M270 180 V218" stroke="#e0a800" stroke-width="6"/>  <!-- shaft -->  <rect x="104" y="153" width="330" height="14" fill="#8d949c" stroke="#3c4650"/>  <!-- bearings -->  <rect x="226" y="144" width="26" height="32" fill="#c98a3c" stroke="#7a4f14"/><rect x="288" y="144" width="26" height="32" fill="#c98a3c" stroke="#7a4f14"/>  <rect x="226" y="153" width="88" height="14" fill="#8d949c"/>  <!-- wheels -->  <path d="M118 132 L150 124 L186 80 L200 80 L200 240 L186 240 L150 196 L118 188 Z" fill="#b7d9f5" stroke="#0b5e9c" stroke-width="2"/>  <path d="M422 132 L390 126 L354 86 L340 86 L340 234 L354 234 L390 194 L422 188 Z" fill="#f5b9a8" stroke="#a12813" stroke-width="2"/>  <rect x="96" y="150" width="12" height="20" fill="#566575"/>  <!-- arrows -->  <path d="M14 160 H88 M76 152 l12 8 -12 8" fill="none" stroke="#1f8fe0" stroke-width="4"/><text x="12" y="146" font-size="12" fill="#0b5e9c" font-weight="700">હવા અંદર</text>  <path d="M446 160 H524 M512 152 l12 8 -12 8" fill="none" stroke="#e2452a" stroke-width="4"/><text x="528" y="146" font-size="12" fill="#a12813" font-weight="700" text-anchor="end">એક્ઝોસ્ટ બહાર</text>  <path d="M270 44 V74 M263 64 l7 10 7 -10" fill="none" stroke="#a87400" stroke-width="3"/>  <path d="M270 248 V280 M263 270 l7 10 7 -10" fill="none" stroke="#a87400" stroke-width="3"/>  <line x1="138" y1="292" x2="160" y2="215" stroke="#13202c" stroke-width="1.2"/><circle cx="138" cy="292" r="12" fill="#13202c"/><text x="138" y="297" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">1</text><line x1="92" y1="44" x2="178" y2="50" stroke="#13202c" stroke-width="1.2"/><circle cx="92" cy="44" r="12" fill="#13202c"/><text x="92" y="49" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">2</text><line x1="236" y1="292" x2="244" y2="164" stroke="#13202c" stroke-width="1.2"/><circle cx="236" cy="292" r="12" fill="#13202c"/><text x="236" y="297" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">3</text><line x1="306" y1="300" x2="301" y2="172" stroke="#13202c" stroke-width="1.2"/><circle cx="306" cy="300" r="12" fill="#13202c"/><text x="306" y="305" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">4</text>  <line x1="236" y1="30" x2="262" y2="60" stroke="#13202c" stroke-width="1.2"/><circle cx="236" cy="30" r="12" fill="#13202c"/><text x="236" y="35" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">5</text><line x1="216" y1="262" x2="256" y2="256" stroke="#13202c" stroke-width="1.2"/><circle cx="216" cy="262" r="12" fill="#13202c"/><text x="216" y="267" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">6</text><line x1="402" y1="292" x2="380" y2="215" stroke="#13202c" stroke-width="1.2"/><circle cx="402" cy="292" r="12" fill="#13202c"/><text x="402" y="297" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">7</text><line x1="448" y1="44" x2="362" y2="52" stroke="#13202c" stroke-width="1.2"/><circle cx="448" cy="44" r="12" fill="#13202c"/><text x="448" y="49" text-anchor="middle" fill="#fff" font-size="14" font-weight="700">8</text>  </svg>
+<small><b>આકૃતિ 1:</b> ટર્બોચાર્જરનો કટ સેક્શન. 1 = કમ્પ્રેસર વ્હીલ, 2 = કમ્પ્રેસર હાઉસિંગ, 3 = શાફ્ટ, 4 = જર્નલ બેરિંગ, 5 = ઓઇલ ઇનલેટ, 6 = ઓઇલ ડ્રેઇન, 7 = ટર્બાઇન વ્હીલ, 8 = ટર્બાઇન હાઉસિંગ</small>
+</div>
+<div class="itl-tw"><table>
+<tr><th>ભાગ</th><th>કામ</th><th>મટીરિયલ</th></tr>
+<tr><td>ટર્બાઇન હાઉસિંગ</td><td>એક્ઝોસ્ટ ગેસને ઝડપ આપી ટર્બાઇન વ્હીલ પર મોકલે</td><td>હીટ-રેઝિસ્ટન્ટ કાસ્ટ આયર્ન (SG / SiMo / Ni-resist)</td></tr>
+<tr><td>ટર્બાઇન વ્હીલ</td><td>ગેસના ધક્કાથી ફરે, આખા ટર્બોને તાકાત આપે</td><td>ઇન્કોનેલ (નિકલ સુપર-એલોય)</td></tr>
+<tr><td>શાફ્ટ</td><td>ટર્બાઇનની તાકાત કમ્પ્રેસર સુધી લઈ જાય</td><td>હાઇ-ટેન્સાઇલ એલોય સ્ટીલ</td></tr>
+<tr><td>કમ્પ્રેસર વ્હીલ</td><td>હવા ખેંચીને દબાવે</td><td>એલ્યુમિનિયમ એલોય</td></tr>
+<tr><td>કમ્પ્રેસર હાઉસિંગ</td><td>હવાની ઝડપને દબાણમાં ફેરવે</td><td>કાસ્ટ એલ્યુમિનિયમ</td></tr>
+<tr><td>બેરિંગ હાઉસિંગ (CHRA)</td><td>બેરિંગ, ઓઇલ ગેલેરી અને વોટર જેકેટ રાખે</td><td>ગ્રે કાસ્ટ આયર્ન</td></tr>
+<tr><td>જર્નલ અને થ્રસ્ટ બેરિંગ</td><td>શાફ્ટને ઓઇલ ફિલ્મ પર ટેકો આપે</td><td>બ્રોન્ઝ</td></tr>
+<tr><td>વેસ્ટગેટ + એક્ચ્યુએટર</td><td>બૂસ્ટ મર્યાદામાં રાખે</td><td>સ્ટેનલેસ સ્ટીલ, રબર ડાયાફ્રામ</td></tr>
+</table></div>
+
+<h2>ટર્બોચાર્જર કેવી રીતે કામ કરે? (6 સ્ટેપ)</h2>
+<ol>
+<li>એન્જિનનો ગરમ એક્ઝોસ્ટ ગેસ (600 થી 900°C) ટર્બાઇન હાઉસિંગમાં આવે.</li>
+<li>ગોકળગાય જેવો રસ્તો સાંકડો થતો જાય, એટલે ગેસની ઝડપ વધે અને તે <b>ટર્બાઇન વ્હીલ</b> ફેરવે.</li>
+<li>એ જ શાફ્ટ પર <b>કમ્પ્રેસર વ્હીલ</b> છે, એટલે તે પણ એટલી જ ઝડપે (1 થી 2.5 લાખ RPM) ફરે.</li>
+<li>કમ્પ્રેસર એર ફિલ્ટરમાંથી તાજી હવા ખેંચીને દબાવે. આ વધારાનું દબાણ એટલે <b>બૂસ્ટ</b>.</li>
+<li>દબાયેલી હવા ગરમ થાય, એટલે <b>ઇન્ટરકૂલર</b> તેને ઠંડી અને ઘટ્ટ કરે.</li>
+<li>ઘટ્ટ હવા સિલિન્ડરમાં જાય અને વધારે ડીઝલ બળે. બૂસ્ટ વધી જાય તો <b>વેસ્ટગેટ</b> ખૂલે અને થોડો ગેસ ટર્બાઇનને અડ્યા વગર નીકળી જાય.</li>
+</ol>
+<div class="itl-note"><b>યાદ રાખો:</b> ટર્બાઇન ચલાવનાર છે (ગરમ બાજુ), કમ્પ્રેસર ચાલનાર છે (ઠંડી બાજુ). બંને વચ્ચે ફક્ત શાફ્ટનું જોડાણ છે. ગેસ અને હવા ક્યારેય ભેગા થતા નથી.</div>
+
+<h2>લ્યુબ્રિકેશન અને કૂલિંગ</h2>
+<p>ટર્બોની શાફ્ટ ધાતુ પર નહીં, <b>ઓઇલની પાતળી ફિલ્મ</b> પર ફરે છે. એન્જિનનું ઓઇલ ઉપરની ફીડ પાઇપથી પ્રેશર સાથે આવે, બેરિંગને ચીકણા અને ઠંડા કરે, અને નીચેની ડ્રેઇન પાઇપથી પોતાના વજનથી સમ્પમાં પાછું જાય. ડ્રેઇન પાઇપ ફીડ કરતાં જાડી હોય છે, કારણ કે પાછું ફરતું ઓઇલ ફીણવાળું અને પ્રેશર વગરનું હોય છે.</p>
+<p>ઘણા ટર્બોમાં એન્જિનનું કૂલન્ટ પણ બેરિંગ હાઉસિંગના વોટર જેકેટમાં ફરે છે. એન્જિન બંધ થાય ત્યારે ઓઇલ ફરતું બંધ થાય, પણ લાલચોળ ટર્બાઇનની ગરમી બેરિંગ તરફ આવે છે. આને <b>હીટ સોક</b> કહેવાય. એટલે ફુલ લોડ પછી એન્જિન બંધ કરતાં પહેલાં 1 થી 2 મિનિટ આઇડલ ચલાવવું.</p>
+
+<h2>ટર્બો ખોલવાનો ક્રમ</h2>
+<ol>
+<li>એન્જિન ઠંડું થવા દો, ત્રણેય હાઉસિંગ પર મેચ માર્ક કરો.</li>
+<li>ઓઇલ ફીડ, ઓઇલ ડ્રેઇન અને કૂલન્ટ પાઇપ કાઢો; કાણાં તરત ઢાંકો.</li>
+<li>એક્ચ્યુએટર કાઢો (રોડની લંબાઈ ન બદલો).</li>
+<li>કમ્પ્રેસર હાઉસિંગ સીધું ખેંચીને કાઢો.</li>
+<li>V-ક્લેમ્પ અને ટર્બાઇન હાઉસિંગ કાઢો.</li>
+<li>લોક નટ ખોલો (થ્રેડ ઘણી વાર લેફ્ટ-હેન્ડ હોય છે), પછી કમ્પ્રેસર વ્હીલ.</li>
+<li>શાફ્ટ સાથેનું ટર્બાઇન વ્હીલ, હીટ શીલ્ડ, બેક પ્લેટ, થ્રસ્ટ બેરિંગ અને જર્નલ બેરિંગ કાઢો.</li>
+</ol>
+<p>ફિટિંગ ઊંધા ક્રમમાં થાય. નવી રિપેર કિટ વાપરો અને રોટર બેલેન્સ કરાવ્યા વગર ટર્બો ફિટ ન કરો.</p>
+
+<h2>તપાસ અને ટેસ્ટિંગ</h2>
+<div class="itl-tw"><table>
+<tr><th>તપાસ</th><th>કેવી રીતે</th><th>ટિપિકલ માપ</th></tr>
+<tr><td>એક્સિયલ પ્લે</td><td>ડાયલ ગેજ શાફ્ટના છેડે, શાફ્ટ આગળ-પાછળ ધકેલો</td><td>0.03 – 0.10 mm</td></tr>
+<tr><td>રેડિયલ પ્લે</td><td>ડાયલ ગેજ કમ્પ્રેસર વ્હીલના નાક પર</td><td>0.30 – 0.60 mm</td></tr>
+<tr><td>ઓઇલ ફીડ પ્રેશર</td><td>ફીડ લાઇનમાં ગેજ</td><td>આઇડલ પર 1 bar થી વધુ, લોડ પર 3 – 4 bar</td></tr>
+<tr><td>વેસ્ટગેટ એક્ચ્યુએટર</td><td>હેન્ડ પ્રેશર પંપથી હવા આપો</td><td>લગભગ 1.0 – 1.2 bar પર રોડ ખસે</td></tr>
+<tr><td>બૂસ્ટ પ્રેશર</td><td>ઇન્ટેક મેનિફોલ્ડ પર ગેજ અથવા સ્કેન ટૂલ</td><td>લગભગ 0.8 – 1.5 bar</td></tr>
+</table></div>
+<p><small>આ ટ્રેનિંગ માટેના ટિપિકલ આંકડા છે. હંમેશા કંપનીના મેન્યુઅલ પ્રમાણે કામ કરો.</small></p>
+
+<h2>ખામી અને લક્ષણ</h2>
+<div class="itl-tw"><table>
+<tr><th>ખામી</th><th>લક્ષણ</th><th>ઉપાય</th></tr>
+<tr><td>ઓઇલની અછત</td><td>સીટી જેવો અવાજ, વાદળી ધુમાડો, શાફ્ટ હલે</td><td>ઓઇલ લેવલ, પ્રેશર અને ફીડ પાઇપ તપાસો</td></tr>
+<tr><td>ગંદું ઓઇલ</td><td>બેરિંગ અને શાફ્ટ પર ગોળ ઘસરકા</td><td>ઓઇલ અને ફિલ્ટર સમયસર બદલો</td></tr>
+<tr><td>બહારની વસ્તુ</td><td>બ્લેડ તૂટેલી, સાયરન જેવો અવાજ</td><td>એર ફિલ્ટર અને હોઝ તપાસો</td></tr>
+<tr><td>વેસ્ટગેટ બંધ ચોંટેલો</td><td>ઓવરબૂસ્ટ, એન્જિન લાઇટ</td><td>વેસ્ટગેટ અને એક્ચ્યુએટર હોઝ તપાસો</td></tr>
+<tr><td>વેસ્ટગેટ ખુલ્લો ચોંટેલો</td><td>બૂસ્ટ બનતું નથી, કાળો ધુમાડો</td><td>એક્ચ્યુએટર સ્પ્રિંગ અને રોડ તપાસો</td></tr>
+<tr><td>હોટ શટડાઉન (કોકિંગ)</td><td>ઓઇલ ગેલેરીમાં કાળો કાર્બન</td><td>બંધ કરતાં પહેલાં આઇડલ ચલાવો</td></tr>
+<tr><td>બૂસ્ટ લીક</td><td>હિસ અવાજ, પાવર ઓછો</td><td>હોઝ, ક્લેમ્પ અને ઇન્ટરકૂલર તપાસો</td></tr>
+</table></div>
+
+<h2>ફાયદા અને ગેરફાયદા</h2>
+<p><b>ફાયદા:</b> એ જ એન્જિનમાંથી વધારે પાવર અને ટોર્ક, સારું માઇલેજ, ઓછો કાળો ધુમાડો, પહાડી વિસ્તારમાં પણ પાવર જળવાય, અને સુપરચાર્જરની જેમ એન્જિનનો પાવર ખાતું નથી.</p>
+<p><b>ગેરફાયદા:</b> ટર્બો લેગ (એક્સિલરેટર દબાવ્યા પછી બૂસ્ટ મોડું આવે), ખૂબ ગરમી અને ઝડપ, ઓઇલ પર પૂરો આધાર, અને રિપેર મોંઘું.</p>
+
+<div class="itl-note red"><b>સલામતી:</b> ગરમ ટર્બોને હાથ ન લગાડો. ચાલુ એન્જિન પર કમ્પ્રેસરના ખુલ્લા મોઢા પાસે હાથ, કપડું કે સાધન ન લાવો; વ્હીલ લાખ RPM પર ફરે છે અને વસ્તુ ખેંચી લે છે.</div>
+
+<h2>ટ્રેડ ટેસ્ટમાં થતી સામાન્ય ભૂલો</h2>
+<ul>
+<li>ટર્બાઇન અને કમ્પ્રેસર વ્હીલની ઓળખ ઊંધી કહેવી. ગરમ બાજુ ટર્બાઇન, ઠંડી બાજુ કમ્પ્રેસર.</li>
+<li>ઓઇલ ઇનલેટ નીચે અને ડ્રેઇન ઉપર બતાવવું. સાચું: ઉપરથી અંદર, નીચેથી બહાર.</li>
+<li>ઇન્ટરકૂલર ટર્બોને ઠંડું કરે છે એમ કહેવું. તે દબાયેલી હવાને ઠંડી કરે છે.</li>
+<li>વેસ્ટગેટ અને ઇન્ટરકૂલરના કામમાં ગૂંચવણ.</li>
+<li>લોક નટના લેફ્ટ-હેન્ડ થ્રેડ ચેક કર્યા વગર ખોલવા જવું.</li>
+</ul>
+
+<h2>10 MCQ (જવાબ સાથે)</h2>
+<details><summary>1. ટર્બોચાર્જર કઈ ઊર્જાથી ચાલે છે?</summary><p>(A) બેટરી (B) એક્ઝોસ્ટ ગેસ (C) ફેન બેલ્ટ (D) ક્રેન્કશાફ્ટ ગિયર<br><b>જવાબ: B.</b> બેલ્ટથી ચાલે તે સુપરચાર્જર.</p></details>
+<details><summary>2. આકૃતિ 1 માં નંબર 4 કયો પાર્ટ છે?</summary><p>(A) થ્રસ્ટ કોલર (B) હીટ શીલ્ડ (C) સીલ રિંગ (D) જર્નલ બેરિંગ<br><b>જવાબ: D.</b></p></details>
+<details><summary>3. આકૃતિ 1 માં નંબર 5 નો તીર શું બતાવે છે?</summary><p>(A) કૂલન્ટ આઉટલેટ (B) હવાનો ઇનલેટ (C) ઓઇલ ઇનલેટ (D) એક્ઝોસ્ટ ઇનલેટ<br><b>જવાબ: C.</b> ઓઇલ હંમેશા ઉપરથી અંદર આવે.</p></details>
+<details><summary>4. ટર્બાઇન વ્હીલ શાનું બને છે?</summary><p>(A) એલ્યુમિનિયમ (B) ઇન્કોનેલ (C) માઇલ્ડ સ્ટીલ (D) પિત્તળ<br><b>જવાબ: B.</b> 900°C થી વધુ ગરમીમાં મજબૂતી જાળવે.</p></details>
+<details><summary>5. વેસ્ટગેટનું કામ શું છે?</summary><p>(A) ઓઇલ પ્રેશર કાબૂમાં રાખવું (B) હવા ઠંડી કરવી (C) ડીઝલ બંધ કરવું (D) વધારાના ગેસને બાયપાસ કરી બૂસ્ટ મર્યાદામાં રાખવું<br><b>જવાબ: D.</b></p></details>
+<details><summary>6. ઇન્ટરકૂલર શું ઠંડું કરે છે?</summary><p>(A) દબાયેલી હવા (B) એન્જિન ઓઇલ (C) એક્ઝોસ્ટ ગેસ (D) ડીઝલ<br><b>જવાબ: A.</b> ઠંડી હવા ઘટ્ટ હોય, એટલે વધારે ઓક્સિજન મળે.</p></details>
+<details><summary>7. "ટર્બો લેગ" એટલે શું?</summary><p>(A) ઓઇલ લીક (B) ટર્બોનો અવાજ (C) બૂસ્ટ આવવામાં થતી વાર (D) ટર્બોનું વજન<br><b>જવાબ: C.</b></p></details>
+<details><summary>8. ઓઇલ ડ્રેઇન પાઇપ ફીડ પાઇપ કરતાં જાડી કેમ હોય છે?</summary><p>(A) દેખાવ માટે (B) ઓઇલ પ્રેશર વગર, ફીણ સાથે, ગ્રેવિટીથી પાછું જાય છે (C) ઓઇલ ઠંડું કરવા (D) વધારે પ્રેશર સહન કરવા<br><b>જવાબ: B.</b></p></details>
+<details><summary>9. વાદળી ધુમાડો શું બતાવે છે?</summary><p>(A) ઓઇલ બળી રહ્યું છે (B) હવા વધારે છે (C) ડીઝલ ઓછું છે (D) બેટરી નબળી છે<br><b>જવાબ: A.</b> કાળો ધુમાડો હવા ઓછી હોય ત્યારે આવે.</p></details>
+<details><summary>10. ફુલ લોડ પછી ગરમ એન્જિન બંધ કરતાં પહેલાં શું કરવું?</summary><p>(A) રેસ આપીને બંધ કરવું (B) તરત બંધ કરવું (C) એર ફિલ્ટર કાઢવું (D) 1 થી 2 મિનિટ આઇડલ ચલાવવું<br><b>જવાબ: D.</b></p></details>
+<p>લેબના MCQ ટેબમાં આવા 32 પ્રશ્નો છે.</p>
+
+<h2>વારંવાર પૂછાતા પ્રશ્નો</h2>
+<details><summary>ટર્બોચાર્જર અને સુપરચાર્જરમાં શું ફરક છે?</summary><p>ટર્બોચાર્જર એક્ઝોસ્ટ ગેસથી ચાલે છે, એટલે એન્જિનનો પાવર ખાતું નથી, પણ તેમાં લેગ હોય છે. સુપરચાર્જર એન્જિનના બેલ્ટથી ચાલે છે; તેમાં લેગ નથી, પણ તે એન્જિનનો થોડો પાવર વાપરે છે.</p></details>
+<details><summary>ટર્બો કેટલું ચાલે?</summary><p>સ્વચ્છ ઓઇલ, સમયસર ફિલ્ટર અને સાચી ડ્રાઇવિંગ આદત હોય તો ટર્બો એન્જિન જેટલું લાંબું ચાલી શકે. મોટા ભાગના ટર્બો લ્યુબ્રિકેશનની ખામીથી ફેલ થાય છે.</p></details>
+<details><summary>VGT ટર્બો એટલે શું?</summary><p>Variable Geometry Turbo. ટર્બાઇન વ્હીલની આસપાસ ફરી શકે તેવી નાની વેન હોય છે. ઓછા RPM પર વેન સાંકડી થાય અને જલદી બૂસ્ટ મળે; ઊંચા RPM પર ખૂલે. આજના મોટા ભાગના ડીઝલ એન્જિનમાં VGT હોય છે.</p></details>
+<details><summary>આ લેબ મોબાઇલમાં ચાલે?</summary><p>હા. લેબ ફોનના બ્રાઉઝરમાં ચાલે છે, કંઈ ઇન્સ્ટોલ કરવાનું નથી અને તે મફત છે.</p></details>
+
+<h2>અન્ય મફત ITI સિમ્યુલેટર</h2>
+<ul>
+<li><a href="https://itilabgujarati.blogspot.com/2026/11/valve-timing-firing-order-lab-gujarati.html">વાલ્વ ટાઈમિંગ અને ફાયરિંગ ઓર્ડર લેબ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/11/suspension-lab-gujarati.html">સસ્પેન્શન લેબ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/alternator-lab-gujarati.html">અલ્ટરનેટર લેબ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/starter-motor-3d-lab-gujarati.html">સ્ટાર્ટર મોટર 3D લેબ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/synchromesh-gearbox-lab-gujarati.html">સિંક્રોમેશ ગિયરબોક્સ લેબ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/engine-dismantling-lab-gujarati.html">એન્જિન ડિસમેન્ટલિંગ લેબ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/relay-simulator-gujarati.html">રિલે લેબ (4 પિન અને 5 પિન)</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/engine-terminology-simulator-gujarati.html">એન્જિન ટર્મિનોલોજી લેબ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/dial-bore-gauge-simulator-gujarati.html">ડાયલ બોર ગેજ સિમ્યુલેટર</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/electromagnet-simulator-gujarati.html">ઇલેક્ટ્રોમેગ્નેટ સિમ્યુલેટર</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/bs6-diesel-exhaust-doc-dpf-def-scr-3d.html">BS6 ડીઝલ એક્ઝોસ્ટ 3D મોડલ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/depth-micrometer-simulator-gujarati.html">ડેપ્થ માઇક્રોમીટર સિમ્યુલેટર</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/mpfi-petrol-engine-3d-model-gujarati.html">MPFI પેટ્રોલ એન્જિન 3D મોડલ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/crdi-diesel-engine-3d-model-gujarati.html">CRDI ડીઝલ એન્જિન 3D મોડલ</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/hydrometer-battery-testing-gujarati.html">હાઇડ્રોમીટર (બેટરી ટેસ્ટિંગ)</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/digital-multimeter-simulator-gujarati.html">ડિજિટલ મલ્ટિમીટર સિમ્યુલેટર</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/crdi-engine-sensor-trainer-gujarati.html">એન્જિન સેન્સર ટ્રેનર</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/blog-post_797.html">વર્નિયર કેલિપર સિમ્યુલેટર</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/blog-post_06.html">માઇક્રોમીટર સિમ્યુલેટર</a></li>
+<li><a href="https://itilabgujarati.blogspot.com/2026/10/blog-post.html">ઇલેક્ટ્રિકલ અને ઇલેક્ટ્રોનિક્સ ટ્રેનર</a></li>
+</ul>
+</div>
